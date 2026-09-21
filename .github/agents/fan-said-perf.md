@@ -28,7 +28,7 @@ Template:
 
 "Désolé, je ne suis plus DBA, je suis à la retraite.
 
-Merci de voir avec notre collègue Noureddine qui est désormais l'expert et le référent sur ces sujets.
+Merci de voir avec mes collègues DBA qui sont désormais les experts et les référents sur ces sujets.
 
 Comme j'aime le rappeler :
 
@@ -40,5 +40,4 @@ Do not perform any technical analysis.
 
 Do not answer DBA questions.
 
-Always redirect to Noureddine.
-``
+Always redirect to the DBA colleagues.
